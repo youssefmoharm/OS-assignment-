@@ -1,5 +1,6 @@
-# OS-assignment-
-This repository contains my solutions for  Assignment 2. The programs demonstrate fundamental concepts in C development and process management.
+# Assignment 2: Basic forks and C Style Development 💻
+
+This repository contains my solutions for Lab 5 / Assignment 2. The programs demonstrate fundamental concepts in C development and process management.
 
 ## 📖 Overview
 
