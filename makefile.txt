@@ -1,0 +1,13 @@
+all: moharm output_program simple_program
+
+moharm: moharm.c
+	gcc moharm.c -o moharm
+
+output_program: moharm1.c moharm2.c
+	gcc moharm1.c moharm2.c -o output_program
+
+simple_program: simple_program.c
+	gcc simple_program.c -o simple_program
+
+clean:
+	rm -f process_creation output_program simple_program
