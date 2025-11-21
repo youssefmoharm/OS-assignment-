@@ -31,7 +31,7 @@ The programs show:
     *   Short written answers explaining what each exercise does and the roles of the linker and loader.
 
 *   **LICENSE** 🔑
-    *   The open-source license for this project.
+    *   The Boost Software  license for this project.
 
 ## 🛠 How to Compile
 
